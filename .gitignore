@@ -1,0 +1,44 @@
+# Node.js
+node_modules/
+dist/
+build/
+*.log
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Next.js
+.next/
+out/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.bak
+*.user
+
+# Universal
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+dist/
+*.egg-info/
+
+# Testing
+coverage/
+
+# Misc
+.gemini/
