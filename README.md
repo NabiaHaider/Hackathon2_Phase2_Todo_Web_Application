@@ -60,7 +60,7 @@ http://localhost:3000
 🌐 Live Demo
 
 Frontend:
-https://phase2-todo-app.vercel.app
+hackathon2-phase2-todo-application-qtho-1mxpzu79u.vercel.app
 
 Backend API Docs:
 https://nabiahaider-hackathon2-phase2-todo-app.hf.space/docs
