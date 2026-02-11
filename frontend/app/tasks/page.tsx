@@ -12,7 +12,7 @@ import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogTrigger } from 
 import { Skeleton } from '@/components/ui/skeleton';
 import { toast } from 'sonner'; // Import toast
 
-const BASE_URL = 'http://localhost:8000/api';
+const BASE_URL = `${process.env.NEXT_PUBLIC_API_URL}/api`;
 
 const getAuthToken = () => {
   const token = localStorage.getItem('jwt_token');
