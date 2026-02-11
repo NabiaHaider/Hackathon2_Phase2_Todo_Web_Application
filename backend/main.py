@@ -10,7 +10,10 @@ from routes import tasks, auth
 app = FastAPI()
 
 # Configure CORS - Ensure this is applied immediately after app initialization
-origins = ["http://localhost:3000"]
+origins = [
+    "http://localhost:3000",
+    "https://hackathon2-phase2-todo-application-liart.vercel.app"
+]
 
 app.add_middleware(
     CORSMiddleware,
