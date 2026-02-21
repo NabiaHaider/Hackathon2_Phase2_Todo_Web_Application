@@ -6,7 +6,7 @@ Users can signup, login and manage their daily tasks with a clean and responsive
 🌐 Live Demo
 
 Frontend:
-hackathon2-phase2-todo-applic-git-f19e7e-nabia-haiders-projects.vercel.app
+[(https://hackathon2-phase2-todo-applic-git-f19e7e-nabia-haiders-projects.vercel.app/)](https://hackathon2-phase2-todo-applic-git-f19e7e-nabia-haiders-projects.vercel.app/)
 
 Backend API Docs:
 https://nabiahaider-hackathon2-phase2-todo-app.hf.space/docs
