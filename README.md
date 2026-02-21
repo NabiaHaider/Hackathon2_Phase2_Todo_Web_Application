@@ -3,6 +3,14 @@
 A modern Full Stack Todo Web Application built with **Next.js frontend** and **FastAPI backend**.  
 Users can signup, login and manage their daily tasks with a clean and responsive interface.
 
+🌐 Live Demo
+
+Frontend:
+hackathon2-phase2-todo-applic-git-f19e7e-nabia-haiders-projects.vercel.app
+
+Backend API Docs:
+https://nabiahaider-hackathon2-phase2-todo-app.hf.space/docs
+
 ---
 
 ## 🚀 Features
@@ -56,11 +64,3 @@ npm run dev
 Frontend will run on:
 
 http://localhost:3000
-
-🌐 Live Demo
-
-Frontend:
-hackathon2-phase2-todo-application-qtho-1mxpzu79u.vercel.app
-
-Backend API Docs:
-https://nabiahaider-hackathon2-phase2-todo-app.hf.space/docs
